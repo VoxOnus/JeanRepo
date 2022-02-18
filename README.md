@@ -1,2 +1,2 @@
 # app
-firebase init hosting
+$ firebase init hosting:github 
