@@ -1,0 +1,2 @@
+# app
+firebase init hosting
